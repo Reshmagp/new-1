@@ -2,7 +2,7 @@ class Iron {
     constructor(x, y, width, height) {
       var options = {
           'restitution':0.8,
-          'friction':3,
+        
    
       }
       this.body = Bodies.rectangle(x, y, width, height, options);
