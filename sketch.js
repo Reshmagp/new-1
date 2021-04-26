@@ -39,7 +39,7 @@ function draw(){
     background("lightBlue");
     Engine.update(engine);
 console.log("messege")
-
+console.log("mesjoosege")
     plane.display();
     hammer.display();
     stone.display();
