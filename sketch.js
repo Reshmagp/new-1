@@ -38,7 +38,7 @@ function setup(){
 function draw(){
     background("lightBlue");
     Engine.update(engine);
-
+console.log("messege")
 
     plane.display();
     hammer.display();
